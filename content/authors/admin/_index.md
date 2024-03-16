@@ -61,8 +61,18 @@ skills:
       - name: C/C++
         description: ''
         percent: 60
-        icon_pack: devicon
+        icon: code
+        icon_pack: fab
+      - name: C/C++
+        description: ''
+        percent: 60
         icon: cplusplus
+        icon_pack: devicon
+      - name: MATLAB
+        description: ''
+        percent: 60
+        icon: matlab
+        icon_pack: devicon
       - name: PostgreSQL / SQL Server
         description: ''
         percent: 70
