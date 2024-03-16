@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Computer Engineering Senio
+role: Computer Engineering Senior
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,7 +29,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Machine Learning/Deep Learning
+  - Machine Learning
+  - Deep Learning 
   - Internet of Things (IoT)
   - Cloud Computing
   - Data Science
@@ -50,24 +51,24 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
         percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: C/C++
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        percent: 60
+        icon: cplusplus
+        icon_pack: devicon
+      - name: PostgreSQL / SQL Server
         description: ''
-        percent: 40
+        percent: 70
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Libraries
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -86,7 +87,15 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
-
+  - name: Softwares
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
