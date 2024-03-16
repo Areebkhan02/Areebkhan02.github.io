@@ -56,51 +56,101 @@ skills:
       - name: Python
         description: ''
         percent: 90
-        icon: python
-        icon_pack: fab
+        # icon: python
+        # icon_pack: fab
       - name: C/C++
         description: ''
         percent: 60
-        icon: devicon/cpluscplus
+        # icon: devicon/cpluscplus
         #icon_pack: fab
       - name: MATLAB
         description: ''
-        percent: 60
-        icon: devicon/matlab
+        percent: 90
+        # icon: devicon/matlab
         #icon_pack: devicon
       - name: PostgreSQL / SQL Server
         description: ''
         percent: 70
-        icon: database
-        icon_pack: fas
+        # icon: database
+        # icon_pack: fas
+       - name: VerilogHDL
+        description: ''
+        percent: 80
+      - name: MongoDB
+        description: ''
+        percent: 60     
   - name: Libraries
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Pandas
         description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        percent: 90
+        # icon: person-hiking
+        # icon_pack: fas
+      - name: Numpy
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        percent: 90
+        # icon: cat
+        # icon_pack: fas
+      - name: Pytorch
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
-  - name: Softwares
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+        # icon: camera-retro
+        # icon_pack: fas
+      - name: OpenCV
+        description: ''
+        percent: 70
+      - name: Tensorflow
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
+      - name: Keras
+        description: ''
+        percent: 60
+      - name: Scikit-learn
+        description: ''
+        percent: 90
+      - name: Matplotlib
+        description: ''
+        percent: 90
+      - name: Seaborn
+        description: ''
+        percent: 70
+  - name: Softwares
+    items:
+      - name: ThingsSpeak / Ubidots 
+        description: ''
+        percent: 90
+        # icon: person-hiking
+        # icon_pack: fas
+      - name: CISCO Packet Tracer 
+        description: ''
+        percent: 70
+      - name: Pspice / LT-spice / Energia / Keil uvision5
+        description: ''
+        percent: 80
+      - name: TinkerCAD / Creo-3D / SimuLink / 
+        description: ''
+        percent: 80
+  - name: Hardware 
+    items:
+      - name: ESP32 / ESP Nano / ESP8266 
+        description: ''
+        percent: 90
+        # icon: person-hiking
+        # icon_pack: fas
+      - name: Arduino Uno 
+        description: ''
+        percent: 90
+      - name: Jetson Nano / Rasberry Pie
+        description: ''
+        percent: 70
+      - name: FPGA Basys-3 Board
+        description: ''
+        percent: 80
+    
+      
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
