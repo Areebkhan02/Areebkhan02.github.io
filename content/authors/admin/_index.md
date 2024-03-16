@@ -73,7 +73,7 @@ skills:
         percent: 70
         # icon: database
         # icon_pack: fas
-      - name: VerilogHDL
+      - name: Verilog HDL
         description: ''
         percent: 80
       - name: MongoDB
@@ -83,36 +83,24 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Pandas
+      - name: Pandas / Numpy
         description: ''
         percent: 90
         # icon: person-hiking
         # icon_pack: fas
-      - name: Numpy
+      - name: Pytorch / OpenCV
         description: ''
         percent: 90
         # icon: cat
         # icon_pack: fas
-      - name: Pytorch
+      - name: Tensorflow / Keras
         description: ''
         percent: 80
         # icon: camera-retro
         # icon_pack: fas
-      - name: OpenCV
+      - name: Scikit-learn / Matplotlib
         description: ''
         percent: 70
-      - name: Tensorflow
-        description: ''
-        percent: 60
-      - name: Keras
-        description: ''
-        percent: 60
-      - name: Scikit-learn
-        description: ''
-        percent: 90
-      - name: Matplotlib
-        description: ''
-        percent: 90
       - name: Seaborn
         description: ''
         percent: 70
@@ -148,6 +136,38 @@ skills:
       - name: FPGA Basys-3 Board
         description: ''
         percent: 80
+  - name: Cloud Platform 
+    items:
+      - name: AWS Lambda Service
+        description: ''
+        percent: 70
+        # icon: person-hiking
+        # icon_pack: fas
+      - name: AWS Relational Database Service
+        description: ''
+        percent: 70
+      - name: AWS IoT Core
+        description: ''
+        percent: 90
+      - name: AWS SageMaker
+        description: ''
+        percent: 60
+  - name: Soft Skills 
+    items:
+      - name: Punctual 
+        description: ''
+        percent: 90
+        # icon: person-hiking
+        # icon_pack: fas
+      - name: Clear Communication
+        description: ''
+        percent: 90
+      - name: Responsible 
+        description: ''
+        percent: 90
+      - name: Team player 
+        description: ''
+        percent: 90
     
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
