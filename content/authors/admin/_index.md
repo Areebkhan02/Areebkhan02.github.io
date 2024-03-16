@@ -62,12 +62,12 @@ skills:
         description: ''
         percent: 60
         icon: devicon/cpluscplus
-        icon_pack: fab
+        #icon_pack: fab
       - name: MATLAB
         description: ''
         percent: 60
         icon: devicon/matlab
-        icon_pack: devicon
+        #icon_pack: devicon
       - name: PostgreSQL / SQL Server
         description: ''
         percent: 70
