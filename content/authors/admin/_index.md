@@ -1,4 +1,7 @@
 ---
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 # Display name
 title: Areeb Adnan Khan
 
@@ -71,7 +74,7 @@ skills:
       - name: MATLAB
         description: ''
         percent: 60
-        icon: matlab
+        icon: <i class="devicon-matlab-plain"></i>
         icon_pack: devicon
       - name: PostgreSQL / SQL Server
         description: ''
