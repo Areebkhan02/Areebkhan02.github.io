@@ -61,8 +61,8 @@ skills:
       - name: C/C++
         description: ''
         percent: 60
-        icon: cplusplus
         icon_pack: devicon
+        icon: cplusplus
       - name: PostgreSQL / SQL Server
         description: ''
         percent: 70
