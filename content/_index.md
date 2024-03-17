@@ -69,8 +69,7 @@ sections:
           location: Karachi, Pakistan
           date_start: '2023-06-01'
           date_end: '2023-08-15'
-          description: The Project aims to create an IoT Node that can track and monitor the health of the agricultural crops. The initiative aims to work with small scale farmers and increase their crop produce. The project is successfully being carried out in capstone with aims of acheiving a working prototype by the end of April 2023 
-          |2-
+          description: The Project aims to create an IoT Node that can track and monitor the health of the agricultural crops. The initiative aims to work with small scale farmers and increase their crop produce. The project is successfully being carried out in capstone with aims of acheiving a working prototype by the end of April 2023 |2-
               Responsibilities include:
 
               * Use technology driven solutions to monitor the health of crops
