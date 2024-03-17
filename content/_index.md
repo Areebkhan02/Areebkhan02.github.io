@@ -69,12 +69,7 @@ sections:
           location: Karachi, Pakistan
           date_start: '2023-06-01'
           date_end: '2023-08-15'
-          description: The Project aims to create an IoT Node that can track and monitor the health of the agricultural crops. The initiative aims to work with small scale farmers and increase their crop produce. The project is successfully being carried out in capstone with aims of acheiving a working prototype by the end of April 2023 |2-
-              Responsibilities include:
-
-              * Use technology driven solutions to monitor the health of crops
-              * Save water and nutrients by introducing drip irrigation
-              * Provide state of the art analysis of their own agricultural field 
+          description: The Project aims to create an IoT Node that can track and monitor the health of the agricultural crops. The initiative aims to work with small scale farmers and increase their crop produce. The project is successfully being carried out in capstone with aims of acheiving a working prototype by the end of April 2023. 
         - title: Junior Research Muhaqiq
           company: Habib University
           company_url: 
@@ -82,7 +77,7 @@ sections:
           location: Karachi, Pakistan
           date_start: '2022-06-01'
           date_end: '2022-08-15'
-          description: 'The aim of the project was to "Modify the existing methods or develop new ones for activity recognition in the given context and generate alarm if need arises".
+          description: 'The aim of the project was to "Modify the existing methods or develop new ones for activity recognition in the given context and generate alarm if need arises.
           
           The project was completed under the supervision of "Dr. Muhammad Farhan" within the time frame and a paper was published at IBCAST'23 which reported about the findings and the protytpe.'
     design:
