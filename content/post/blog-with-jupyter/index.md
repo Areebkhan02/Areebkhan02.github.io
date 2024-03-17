@@ -5,7 +5,7 @@ summary: Easily blog from Jupyter notebooks!
 ---
 
 
-```python
+<!-- ```python
 from IPython.core.display import Image
 Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
 ```
@@ -31,4 +31,4 @@ pipx install academic
 academic import 'notebooks/**.ipynb' content/post/ --verbose
 ```
 
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
+The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder. -->
