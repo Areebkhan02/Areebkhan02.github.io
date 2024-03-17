@@ -30,7 +30,7 @@ featured: false
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: https://github.com/Areebkhan02/Swarm_Robotics_Survey
+url_pdf: https://github.com/Areebkhan02/Swarm_Robotics_Survey/blob/main/IBCAST_Conference_Paper.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
