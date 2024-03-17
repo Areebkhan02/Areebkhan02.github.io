@@ -204,7 +204,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Connect with me to collaborate on amazing projects, discussions and ideas.
       # Contact (add or remove contact options as necessary)
       email: ak06865@st.habib.edu.pk / areeb.adnan.khan@gmail.com
       phone: +92 03341336686
