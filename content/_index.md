@@ -176,7 +176,6 @@ sections:
   - block: collection
     content:
       title: Other Publications
-      text: 
       filters:
         folders:
           - publication

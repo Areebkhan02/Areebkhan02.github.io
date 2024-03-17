@@ -1,7 +1,7 @@
 ---
-title: DigitalNizam- Shaping the Future of Pakistani Elections Through Secure FPGA-Based Voting Solutions
+title: "DigitalNizam: Shaping the Future of Pakistani Elections Through Secure FPGA-Based Voting Solutions"
 authors:
-- Areeb Adnan Khan
+- admin
 - Nimra Sohail
 - Mohit Rai
 author_notes:
@@ -35,7 +35,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://www.mdpi.com/2673-4591/46/1/44
-url_code: https://github.com/Areebkhan02/Electronic_voting_machine
+url_code: 'https://github.com/Areebkhan02/Electronic_voting_machine'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
