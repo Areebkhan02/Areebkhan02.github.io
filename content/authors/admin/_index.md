@@ -25,7 +25,7 @@ organizations:
     url: https://habib.edu.pk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Artifical Intelligence, Deep Learning, Internet of Things and Data Science.
 
 # Interests to show in About widget
 interests:
@@ -174,24 +174,24 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
+  - icon: instagram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://www.instagram.com/aeeb.u?igsh=aGplbWZsaTN4d2hq&utm_source=qr
+    label: Follow me on Instagram
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Areebkhan02
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/areeb-adnan-khan-a0322025b/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -203,5 +203,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Computer Engineering student at Habib University with minors in Computer Science. Having a strong background in Artificial Intelligence, Deep Learning, and Machine Learning, I've had the privilege to work on projects that push the boundaries of what's possible. From training complex neural networks to deploying AI-driven solutions. I have participated in various research projects, which have honed my critical and analytical skills. Additionally, I value teamwork and collaboration, and possess excellent communication skills that contribute to effective cooperation within teams.
 {style="text-align: justify;"}
