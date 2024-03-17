@@ -1,25 +1,25 @@
 ---
-title: "DigitalNizam: Shaping the Future of Pakistani Elections Through Secure FPGA-Based Voting Solutions"
+title: 'DigitalNizam Shaping the Future of Pakistani Elections Through Secure FPGA-Based Voting Solutions'
 authors:
-- admin
-- Nimra Sohail
-- Mohit Rai
+  - admin
+  - Nimra Sohail
+  - Mohit Rai
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2023-08-01T00:00:00Z"
+  - 'Equal contribution'
+  - 'Equal contribution'
+date: '2023-08-01T00:00:00Z'
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-10-01T00:00:00Z"
+publishDate: '2023-10-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Engineering Proceedings"
+publication: 'Journal of Engineering Proceedings'
 publication_short: ""
 
 abstract: This paper represents the ways in which a secure and reliable voting machine could be implemented using hardware descriptive language, which in this case is Verilog. In order to  emphasize security, the proposed design is implemented in two ways; The first variant is a basic  version compromising some basic safety protocols, however, the subsequent variant is a safer kind of  FPGA stemmed-voting machine. Furthermore, concrete illustration is done using the Vivado and  Artix-7-based FPGA Basys-3. Finally, the obtained conclusions seem to be encouraging, to a certain  extent, as evidently, the system provides robust and assured voting, along with minimizing latency  and power consumption. In addition to that, this design could be utilized as a starting point for the development of superior voting systems, utilizing the FPGAs, in the future.
@@ -28,7 +28,7 @@ abstract: This paper represents the ways in which a secure and reliable voting m
 summary: This paper represents the ways in which a secure and reliable voting machine could be implemented using hardware descriptive language, which in this case is Verilog.
 
 tags:
-- Verilog HDL
+  - Verilog HDL
 featured: false
 
 # links:
