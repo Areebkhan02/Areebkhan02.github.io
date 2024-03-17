@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Sign to Speech Glove in Pakistani Context
+summary: Sign language is a means of communication that involves the use of hand gestures, facial expressions, and body language to convey meaning. It is primarily used by people who are deaf or hard of hearing, but it can also be used by people who can hear as a way of communicating in noisy environments or for those who want to learn a new language. Despite the benefits of sign language, there are still significant challenges faced by those who use it.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Design Thinking
+date: '2024-03-17T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Visit
+    url: https://github.com/Areebkhan02/Sign_To_Speech_Glove
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,15 +27,13 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+One of the biggest barriers faced by deaf individuals is communication. In Pakistan, sign language is the primary means of communication for the deaf community. However, many hearing individuals in Pakistan do not understand sign language, which can make it difficult for deaf individuals to communicate effectively in many situations.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+The sign-to-speech glove can help address this issue by allowing deaf individuals to translate their sign language gestures into spoken words in real time. This can be particularly useful in situations where deaf individuals need to communicate with hearing individuals who do not know sign languages, such as in schools, workplaces, and healthcare settings. To make our understanding of why would our sign-to-speech hardware make a difference we contacted multiple organizations running across Pakistan that work for the betterment of people with such diffi- culties. It included approaching ConnectHear, PakistanSignLangauge, and the Pakistan Association of the Deaf. We also visited KFC millennium branch where mute people are employed at an order pickup counter to ask about their insight on the product.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+The existing ASL-to-speech gloves are typically designed to recognize only a small set of signs and translate them into corresponding spoken words. This means that they may not be able to accurately interpret more complex or nuanced signs, which can limit their overall usefulness for communication. n Pakistan, we have a unique Pakistan Sign Language (PSL) that deaf/mute people use. Keeping this in mind the ASL-to-speech gloves are futile. The community we are targeting is Pakistani mute/deaf people. On average it would be rare that any Pakistani would want to invest a huge amount of capital of around lacs to buy these sensory gloves
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+A proposed solution for this is the use of sign-to-speech sensor gloves. These gloves are equipped with sensors that can detect the movements of the wearer’s hands and fingers as they sign in PSL, and translate these movements into speech. The sign-to-speech sensor gloves would be designed to fit snugly on the wearer’s hands, with sensors placed on the fingertips and along the back of the hand. The sensors would be made up of gyroscopes, accelerometers, and flex sensors, which would measure the orientation, acceleration, and bending of the wearer’s fingers and hands. In this proposed solution, we explored the development of such gloves, and the technology behind them. The first step was to design and fabricate gloves that are comfortable, lightweight, and durable. The gloves would need to be flexible and allow for natural hand movements while also accommodating the sensors required for sign language recognition.
