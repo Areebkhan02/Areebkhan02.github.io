@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://github.com/Areebkhan02/Elderly_Fall_Detection/blob/main/Intelligent%20Monitoring%20for%20Elderly%20Well-being%20Deep%20Learning-Based%20Activity%20Recognition%20for%20Fall%20Detection.pdf'
+url_pdf: https://github.com/Areebkhan02/Elderly_Fall_Detection/blob/main Intelligent%20Monitoring%20for%20Elderly%20Well-being%20Deep%20Learning-Based%20Activity%20Recogni ion%20for%20Fall%20Detection.pdf
 url_code: 'https://github.com/Areebkhan02/Elderly_Fall_Detection'
 # url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: https://github.com/Areebkhan02/Elderly_Fall_Detection/blob/main/IBCAST_608.pdf
