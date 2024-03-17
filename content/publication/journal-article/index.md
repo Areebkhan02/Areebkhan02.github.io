@@ -1,5 +1,5 @@
 ---
-title: "DigitalNizam: Shaping the Future of Pakistani Elections Through Secure FPGA-Based Voting Solutions"
+title: DigitalNizam- Shaping the Future of Pakistani Elections Through Secure FPGA-Based Voting Solutions
 authors:
 - Areeb Adnan Khan
 - Nimra Sohail
