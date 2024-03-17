@@ -123,7 +123,7 @@ sections:
           date_end: ''
           date_start: '2023-01-01'
           description:
-          icon: edx
+          icon: habib
           organization: Habib University
           organization_url: https://habib.edu.pk/
           title: President’s List 2022, 2023
@@ -139,11 +139,11 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2022-07-01'
+          date_start: '2023-11-28'
           description: Prototypes for Humanity is the world's most diverse assembly of innovations that has the power to create a better future. It is the most competitive prototype competition that happens anually. My project IntelliCropPK got selected as the top project from 100+ countries and 3000 submissions. We were invited to present our project infront of world leaders and industry experts in COP28 UAE. 
           icon: habib
           organization: Prototypes for Humanity
-          organization_url: https://habib.edu.pk/
+          organization_url: https://www.prototypesforhumanity.com/
           title: Top 100 Prototypes in COP28
           url: ''
     design:
