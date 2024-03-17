@@ -206,33 +206,33 @@ sections:
       text: |-
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: ak06865@st.habib.edu.pk / areeb.adnan.khan@gmail.com
+      phone: +92 03341336686
       appointment_url: 'https://calendly.com'
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Green house 20/4A
+        city: Karachi
+        region: Sindh
+        postcode: '74600'
+        country: Pakistan
+        country_code: PK
+      #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+        latitude: '24.9053'
+        longitude: '67.1377'  
       contact_links:
-        - icon: twitter
+        - icon: facebook
+          icon_pack: fab
+          name: Message Me
+          link: 'https://www.facebook.com/profile.php?id=100008754222128'
+        - icon: instagram
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+          link: 'https://www.instagram.com/aeeb.u?igsh=aGplbWZsaTN4d2hq&utm_source=qr'
         - icon: video
           icon_pack: fas
           name: Zoom Me
