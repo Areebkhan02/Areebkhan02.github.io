@@ -62,19 +62,19 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Research Muhaqiq
+          company: Habib University x SPARCO
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo:
+          location: Karachi, Pakistan
+          date_start: '2023-06-01'
+          date_end: '2023-08-15'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Use technology driven solutions to monitor the health of crops
+              * Save water and nutrients by introducing drip irrigation
+              * 
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
