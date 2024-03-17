@@ -111,8 +111,8 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url:
-          date_end: 
-          date_start: 
+          date_end: ''
+          date_start: '2022-01-01'
           description: 
           icon: habib
           organization: Habib University
