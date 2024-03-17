@@ -203,5 +203,5 @@ social:
 highlight_name: true
 ---
 
-Computer Engineering student at Habib University with minors in Computer Science. Having a strong background in Artificial Intelligence, Deep Learning, and Machine Learning, I've had the privilege to work on projects that push the boundaries of what's possible. From training complex neural networks to deploying AI-driven solutions. I have participated in various research projects, which have honed my critical and analytical skills. Additionally, I value teamwork and collaboration, and possess excellent communication skills that contribute to effective cooperation within teams.
+Computer Engineering student at Habib University with minor in Computer Science. Having a strong background in Artificial Intelligence, Deep Learning, and Machine Learning, I've had the privilege to work on projects that push the boundaries of what's possible. From training complex neural networks to deploying AI-driven solutions. I have participated in various research projects, which have honed my critical and analytical skills. Additionally, I value teamwork and collaboration, and possess excellent communication skills that contribute to effective cooperation within teams.
 {style="text-align: justify;"}
