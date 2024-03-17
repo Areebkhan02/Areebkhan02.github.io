@@ -78,6 +78,23 @@ sections:
           date_start: '2022-06-01'
           date_end: '2022-08-15'
           description: The aim of the project was to "Modify the existing methods or develop new ones for activity recognition in the given context and generate alarm if need arises". The project was completed under the supervision of "Dr. Muhammad Farhan" within the time frame and a paper was published at IBCAST'23 which reported about the findings and the protytpe.
+        - title: Lead Design Researcher
+          company: Playground, Habib University
+          company_url: 
+          company_logo: 
+          location: Karachi, Pakistan
+          date_start: '2022-01-01'
+          date_end: '2022-04-15'
+          description: As a “Playground Researcher” I participated in all research activities with the playground which led to workshops, events, products and project publications by the playground. Projects which were hosted by the playground were provided support through facilities and feedback from the playground and CPE team and external design consultants.
+        - title: Teaching Assistant (x7)
+          company: Habib University
+          company_url: 
+          company_logo: 
+          location: Karachi, Pakistan
+          date_start: '2021-05-01'
+          date_end: '2023-12-12'
+          description: Taught Undergraduate level courses such as Programming Fundamentals, Data Structures and Algorithms, Calculus 2, Computer Architecture (x2), Digital Logic and Design and Micro-controllers and Interfacing
+        
     design:
       columns: '2'
   - block: accomplishments
