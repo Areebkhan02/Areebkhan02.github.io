@@ -1,13 +1,6 @@
 ---
 title: HarvestHub
-summary: Pakistan, being an agricultural-centric nation, encounters
-challenges with its traditional farming methods, which
-were once dependable. It becomes imperative to embrace contemporary,
-data-driven approaches for optimizing crop selection.
-The project employs machine learning models, utilizing Decision
-Trees in supervised learning and K-means clustering in unsupervised
-learning, to forecast crop outcomes and discern patterns
-within soil datasets. More information about this project can be found on
+summary: Pakistan, being an agricultural-centric nation, encounters challenges with its traditional farming methods, which were once dependable. It becomes imperative to embrace contemporary, data-driven approaches for optimizing crop selection. The project employs machine learning models, utilizing Decision Trees in supervised learning and K-means clustering in unsupervised learning, to forecast crop outcomes and discern patterns within soil datasets. More information about this project can be found on
 tags:
   - Machine Learning
 #date: "2016-04-27T00:00:00Z"
