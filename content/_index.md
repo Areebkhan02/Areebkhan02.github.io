@@ -119,23 +119,32 @@ sections:
           organization_url: https://habib.edu.pk/
           title: Dean’s List (x4), Spring 2022, Fall 2022, Spring 2023, Fall 2023
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url:
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
+          date_start: '2023-01-01'
+          description:
           icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          organization: Habib University
+          organization_url: https://habib.edu.pk/
+          title: President’s List 2022, 2023
+          url:
+        - certificate_url: 
+          date_end: ''
+          date_start: '2022-07-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: habib
+          organization: Habib University
+          organization_url: https://habib.edu.pk/
+          title: High Academic Acheivement Scholarship Fall 2022, Fall 2023
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2022-07-01'
+          description: Prototypes for Humanity is the world's most diverse assembly of innovations that has the power to create a better future. It is the most competitive prototype competition that happens anually. My project IntelliCropPK got selected as the top project from 100+ countries and 3000 submissions. We were invited to present our project infront of world leaders and industry experts in COP28 UAE. 
+          icon: habib
+          organization: Prototypes for Humanity
+          organization_url: https://habib.edu.pk/
+          title: Top 100 Prototypes in COP28
           url: ''
     design:
       columns: '2'
